@@ -1,0 +1,7 @@
+You can open this with Octave(recommanded) or Matlab whatever you like.
+This exercise is about the implementation of linear regression using vectorization.
+You can see the main process of linear regression in the ex1.m and ex1_multi.m file.
+The details of how to compute the cost function or doing gradient descent is in each file of their names. You can also see the process of how matrix being computed in those files.
+To see the output or debug the codes, feel free to type anything in the command window, or you can type ex1 (or ex1_multi) in the command window and press enter to move on.
+The ex1data1 and ex1data2 files are the dataset to do linear regression.
+B.T.W. you can download the original zip file from Coursera and submit it to see whether it works or not.
