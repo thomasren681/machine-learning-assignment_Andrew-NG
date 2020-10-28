@@ -1,0 +1,4 @@
+The basic process and the tutorial are concretely displayed in the pdf file.
+One problem I find in the plotDecisionBOundary.m file is that it won't plot the contour of regularized line, even though the code was not changed or after being bug-freely modified.
+If this punny probelm encounters you as well, don't worry, I think it's normal and maybe the compiler's fault.
+You still get the correct answer and you can watch the result in the pdf file if you're interested.
